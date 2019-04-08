@@ -9,6 +9,6 @@ import static org.hamcrest.Matchers.*;
 class WorkshopTest {
   @Test
   void test() {
-    assertThat(true, is(false));
+    assertThat(true, is(true));
   }
 }
