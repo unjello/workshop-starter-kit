@@ -1,0 +1,14 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "Workshop starter-kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
