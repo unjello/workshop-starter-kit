@@ -37,6 +37,7 @@ else()
 endif()
 
 add_library(workshop INTERFACE)
+target_include_directories(workshop INTERFACE include)
 
 add_library(doctest INTERFACE)
 target_include_directories(doctest INTERFACE external/doctest)

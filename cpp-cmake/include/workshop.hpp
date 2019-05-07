@@ -1,3 +1,3 @@
 #pragma once
 
-int is_true() { return false; }
+int is_true() { return true; }
